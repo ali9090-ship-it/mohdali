@@ -1,3 +1,6 @@
-hello this is my first  project on github 
-<br>
-github is a website where git is software 
+# AMS - Academic Management System
+
+This repository contains the source code and documentation for the AMS project.
+
+AMS is an ERP-style Academic Management System for colleges.
+
